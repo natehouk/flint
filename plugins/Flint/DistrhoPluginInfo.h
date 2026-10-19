@@ -1,0 +1,32 @@
+#ifndef DISTRHO_PLUGIN_INFO_H_INCLUDED
+#define DISTRHO_PLUGIN_INFO_H_INCLUDED
+
+#define DISTRHO_PLUGIN_BRAND   "Epsilon Audio"
+#define DISTRHO_PLUGIN_NAME    "Flint"
+#define DISTRHO_PLUGIN_URI     "https://epsilonrecords.com/plugins/flint"
+#define DISTRHO_PLUGIN_CLAP_ID "com.epsilonrecords.flint"
+
+#define DISTRHO_PLUGIN_BRAND_ID  EpsA
+#define DISTRHO_PLUGIN_UNIQUE_ID Fln1
+
+#define DISTRHO_PLUGIN_HAS_UI           1
+#define DISTRHO_UI_USE_NANOVG           1
+#define DISTRHO_UI_USER_RESIZABLE       1
+#define DISTRHO_UI_DEFAULT_WIDTH        900
+#define DISTRHO_UI_DEFAULT_HEIGHT       600
+#define DISTRHO_PLUGIN_IS_RT_SAFE       1
+#define DISTRHO_PLUGIN_IS_SYNTH         0
+#define DISTRHO_PLUGIN_NUM_INPUTS       2
+#define DISTRHO_PLUGIN_NUM_OUTPUTS      2
+#define DISTRHO_PLUGIN_WANT_MIDI_INPUT  1
+#define DISTRHO_PLUGIN_WANT_PROGRAMS    1
+#define DISTRHO_PLUGIN_WANT_STATE       1
+#define DISTRHO_PLUGIN_WANT_FULL_STATE  1
+#define DISTRHO_PLUGIN_WANT_TIMEPOS     0
+#define DISTRHO_PLUGIN_WANT_PARAMETER_VALUE_CHANGE_REQUEST 1
+
+#define DISTRHO_PLUGIN_VST3_CATEGORIES "Fx|Filter"
+#define DISTRHO_PLUGIN_CLAP_FEATURES   "audio-effect", "filter", "stereo"
+#define DISTRHO_PLUGIN_AU_TYPE         aumf
+
+#endif
