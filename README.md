@@ -2,6 +2,8 @@
 
 **A small saturating filter with an envelope follower, for macOS, Windows and Linux (VST3 · AU · CLAP · VST2).**
 
+Part of **[Epsilon Audio](https://github.com/natehouk/epsilon-plugins)**, a family of free, open-source plugins: Monolith, Caldera, Obsidian, Strata, Basalt, Gneiss, Mica and Flint.
+
 ![Flint](screenshot.png)
 
 Flint is a clean-room design with the feature set of FabFilter Micro, FabFilter's eighth plugin (January 2010). Micro was a lightweight single filter built on the filter first developed for FabFilter One. Flint was written from scratch, working only from FabFilter's public press release, product page and online help. No FabFilter code, binaries, presets, artwork or trademarks were used.
