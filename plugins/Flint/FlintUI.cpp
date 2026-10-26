@@ -212,7 +212,7 @@ protected:
         beginPath(); moveTo(44, 10); lineTo(44, 22); moveTo(38, 16); lineTo(50, 16); strokeColor(withAlpha(C_ACC, 0.7f)); strokeWidth(1); stroke();
         fontSize(22); textLetterSpacing(9); fillColor(C_TEXT); textAlign(ALIGN_LEFT | ALIGN_MIDDLE); text(58, 34, "FLINT", nullptr);
         fontSize(9.5f); textLetterSpacing(2.5f); fillColor(C_DIM); text(170, 29, "FILTER", nullptr);
-        fontSize(7); textLetterSpacing(1.1f); fillColor(C_FAINT); text(170, 41, "EPSILON AUDIO 1.0", nullptr);
+        fontSize(7); textLetterSpacing(1.1f); fillColor(C_FAINT); text(170, 41, "EPSILON AUDIO 1.1", nullptr);
         drawPresetBar();
         for (int k = 0; k < 2; ++k) {
             const float x = A_X + k * AB_W; const bool on = abSlot == k, hot = hoverHeader == 6 + k;

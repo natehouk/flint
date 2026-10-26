@@ -1,4 +1,4 @@
-# Flint 1.0 — User Manual
+# Flint 1.1 — User Manual
 
 Flint is a small, characterful filter. It has one 12 dB/oct low pass or high pass filter whose resonance (Peak) goes from warm and smooth to self‑oscillation. Its input stage saturates when you push it, and an envelope follower moves the cutoff with the loudness of the incoming sound. Flint runs as VST3, AU, CLAP and VST2 on macOS, Windows and Linux.
 

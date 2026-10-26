@@ -128,6 +128,10 @@ Release checks:
 
 New parameters are only ever appended, so saved sessions and automation keep working across versions.
 
+## Changelog
+
+- **1.1:** The preset browser searches names and categories as you type, and keeps Favourites.
+
 ## License
 
 [MIT](LICENSE). Built with [DPF](https://github.com/DISTRHO/DPF) and its bundled NanoVG, which are under the ISC license. `plugins/Flint/ResizeHandle.hpp` comes from DPF's examples and keeps its ISC notice.
