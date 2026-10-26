@@ -63,6 +63,7 @@ xattr -dr com.apple.quarantine ~/Library/Audio/Plug-Ins/*/Flint*
 - **MIDI Learn.**
 - **Smoothed parameters**, sample-accurate host automation and a resizable interface.
 - **24 factory presets** in four categories (Tone, Envelope, Resonant, Drive), plus your own user presets.
+- The preset browser **searches** names and categories as you type, and a star keeps a preset in **Favourites**.
 - **Hover tips** on every control, plus a **HELP window**.
 - **[Full manual](docs/MANUAL.md)**, also in every release zip as `Flint-Manual.html`.
 
